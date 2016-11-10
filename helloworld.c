@@ -1,5 +1,7 @@
 // Test-repo
-// Local repository modification
+// First : Git-hub modification
+// Second : Local repository modification
+
 #include <stdio.h>
 
 int main(void) {
